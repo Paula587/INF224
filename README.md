@@ -1,3 +1,5 @@
+The goal of this projet is to create the software draft of a multimedia set-top box allowing to play music, videos, movies, display photos, etc. This software will be realized in stages, limiting itself to the declaration and implementation of some typical classes and functionalities that will be completed progressively. Note that it is useful to read the whole text of each step before working on it (especially the notes or remarks that give some indications).
+
 # INF224
 
 Ce projet a été réalisé par Anna van Elst
